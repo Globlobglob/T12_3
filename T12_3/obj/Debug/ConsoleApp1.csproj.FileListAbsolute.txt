@@ -1,0 +1,9 @@
+C:\Users\MosquitoParisi\Downloads\ПР\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\MosquitoParisi\Downloads\ПР\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\MosquitoParisi\Downloads\ПР\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\MosquitoParisi\Downloads\ПР\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\MosquitoParisi\Downloads\ПР\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\MosquitoParisi\Downloads\ПР\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\MosquitoParisi\Downloads\ПР\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\MosquitoParisi\Downloads\ПР\ConsoleApp1\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\MosquitoParisi\Downloads\ПР\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
